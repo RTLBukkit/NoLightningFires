@@ -1,0 +1,4 @@
+name: NoLightningFires
+version: @version@
+main: au.id.rleach.nolightningfires.NoLightningFires
+api-version: 1.16
